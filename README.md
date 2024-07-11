@@ -1,6 +1,6 @@
 # Wavelet-Enhanced Graph Neural Networks: Towards Non-Parametric Network Traffic Modeling
 
-**Carlos Güemes Palau, Miquel Ferrior Galmés, Jordi Paillisse Vilanova, Pere Barlet Ros, Albert Cabellos Aparicio**
+**Carlos Güemes Palau, Miquel Ferrior Galmés, Jordi Paillisse Vilanova, Albert López Brescó, Pere Barlet Ros, Albert Cabellos Aparicio**
 
 This repository is the code of the paper *Wavelet-Enhanced Graph Neural Networks: Towards Non-Parametric Network Traffic Modeling* (publication pending)
 
