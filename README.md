@@ -2,7 +2,7 @@
 
 **Carlos Güemes Palau, Miquel Ferrior Galmés, Jordi Paillisse Vilanova, Albert López Brescó, Pere Barlet Ros, Albert Cabellos Aparicio**
 
-This repository is the code of the paper *Wavelet-Enhanced Graph Neural Networks: Towards Non-Parametric Network Traffic Modeling* (publication pending)
+This repository is the code of the paper *Wavelet-Enhanced Graph Neural Networks: Towards Non-Parametric Network Traffic Modeling*: https://dl.acm.org/doi/10.1145/3694811.3697823
 
 Contact us: *[carlos.guemes@upc.edu](mailto:carlos.guemes@upc.edu)*, *[contactus@bnn.upc.edu](mailto:contactus@bnn.upc.edu)*
 
